@@ -36,5 +36,5 @@ while counts>0:
 while counts<=0:
     print("\ngame over:(\n seems like u should exercise more")   
     break 
-print(":)")                
+print(":)\n thank u!")                
 
